@@ -34,10 +34,15 @@ captures/
 
 # Intellij
 *.iml
+.idea/.name
+.idea/encodings.xml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/scopes/scope_settings.xml
+.idea/vcs.xml
 .idea/workspace.xml
-.idea/tasks.xml
-.idea/gradle.xml
-.idea/dictionaries
 .idea/libraries
 
 # Keystore files
@@ -57,5 +62,4 @@ freeline_project_description.json
 
 # myself add
 .DS_Store
-.idea/vcs.xml
 *.keystore
